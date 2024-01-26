@@ -1,6 +1,6 @@
 # Improving student understanding of the fossil record
 
-## A Scholarship of Teaching and Learning approach
+A Scholarship of Teaching and Learning approach
 
 ## Purpose
 
@@ -20,15 +20,21 @@ Text and presentation files are provided as [Quarto](https://quarto.org/) files.
 If you would like to edit the OER and export it e.g. to Word or PDF, you can do it in two ways: 
 
 First, clone the repository.
+
     1. **With R Studio**
-    Open the file in R Studio, set the following line to your preferred format, e.g.: 
+    
+    Open the file in R Studio, set the following line to your preferred format, e.g.:
+    
     ```         
     format: pdf
     ```
+    
     And click `Render`.
    
     2. **With Quarto CLI interface**
+    
     Change the line as above using any text editor and use Quarto CLI to render it:
+    
     ```         
     quarto render
     ```
@@ -36,15 +42,23 @@ First, clone the repository.
 ## Authors
 
 **Niklas Hohmann**
+
 Utrecht University
+
 email: n.h.hohmann [at] uu.nl
+
 Web page: [www.uu.nl/staff/NHohmann](https://www.uu.nl/staff/NHHohmann)
+
 ORCID: [0000-0003-1559-1838](https://orcid.org/0000-0003-1559-1838)
 
 **Emilia Jarochowska**
+
 Utrecht University
+
 email: e.b.jarochowska [at] uu.nl
+
 Web page: [www.uu.nl/staff/EBJarochowska](https://www.uu.nl/staff/EBJarochowska)
+
 ORCID: [0000-0001-8937-9405](https://orcid.org/0000-0001-8937-9405)
 
 ## Copyright
